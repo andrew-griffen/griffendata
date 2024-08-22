@@ -3,6 +3,6 @@
 
 ## Description
 
-Some data sets used in my **R for Empirical Microeconomics**.
+Some data sets used in my _R for Empirical Microeconomics_.
 
 
