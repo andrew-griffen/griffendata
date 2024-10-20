@@ -33,7 +33,7 @@
 
 #' Extract from the Current Population Survey.
 #'
-#' The main labor force suvery in the United States.
+#' The main labor force survey in the United States.
 #'
 #' @format A tibble with 691,069 rows and 16 columns:
 #' \describe{
