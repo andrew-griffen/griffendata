@@ -138,7 +138,7 @@
 #' \item{   description}{Description of mascot}
 #' }
 #' @source \url{https://www.yurugp.jp}
-"blood_meridian"
+"mascots"
 
 
 
