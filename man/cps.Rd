@@ -32,6 +32,6 @@ IPUMS at University of Minnesota.
 cps
 }
 \description{
-The main labor force suvery in the United States.
+The main labor force survey in the United States.
 }
 \keyword{datasets}
