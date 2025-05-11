@@ -1,17 +1,3 @@
-#' Census data for Angrist and Krueger (1991).
-#'
-#' @format A tibble with 1,063,634 rows and 6 columns:
-#' \describe{
-#' \item{log_wage}{Log weekly wage.}
-#' \item{education}{Years of education.}
-#' \item{quarter_birth}{Quarter of birth.}
-#' \item{birthyear}{Indicator variable for Hispanic.}
-#' \item{census}{Year of census observation comes from.}
-#' \item{race}{Respondent race (white or black).}
-#' }
-#' @source Angrist Data Archive.
-"ak1991"
-
 #' Orange juice sales data collected in the 1990s from Dominick's, which was a Chicago-area chain store.
 #'
 #' @format A tibble with 28,947 rows and 4 columns:
@@ -55,7 +41,7 @@
 #' \item{   sampling_weight}{Sampling weight.}
 #' }
 #' @source IPUMS at University of Minnesota.
-"cps"
+"full_cps"
 
 #' Expenditure data from a hypothetical household survey.
 #'
