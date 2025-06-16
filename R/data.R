@@ -10,6 +10,36 @@
 #' @source Kilts Center at the University of Chicago's Booth School of Business.
 "oj"
 
+#' Electoral college results from 2016 U.S. Presidential Election.
+#'
+#' @format A tibble with 51 rows and 3 columns:
+#' \describe{
+#' \item{   state}{State including D.C.}
+#' \item{   electoral_votes}{Number of electoral votes by state.}
+#' \item{   winner}{Winning candidate by state.}
+#' }
+"election_2016"
+
+#' Electoral college results from 2020 U.S. Presidential Election.
+#'
+#' @format A tibble with 51 rows and 3 columns:
+#' \describe{
+#' \item{   state}{State including D.C.}
+#' \item{   electoral_votes}{Number of electoral votes by state.}
+#' \item{   winner}{Winning candidate by state.}
+#' }
+"election_2020"
+
+#' Electoral college results from 2024 U.S. Presidential Election.
+#'
+#' @format A tibble with 51 rows and 3 columns:
+#' \describe{
+#' \item{   state}{State including D.C.}
+#' \item{   electoral_votes}{Number of electoral votes by state.}
+#' \item{   winner}{Winning candidate by state.}
+#' }
+"election_2024"
+
 #' Text of the Gettysburg Address.
 #'
 #' Famous speech about America's national purpose.
