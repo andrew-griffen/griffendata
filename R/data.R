@@ -156,6 +156,24 @@
 #' @source \url{https://www.yurugp.jp}
 "mascots"
 
+#' Location and number of cholera deaths in the 1854 outbreak in Soho, London.
+#'
+#' @format A tibble with 250 rows and 4 columns:
+#' \describe{
+#' \item{   lng}{longitude of address}
+#' \item{   lat}{longitude of address}
+#' \item{   deaths}{number of deaths at the address}
+#' }
+#' @source \url{http://blog.rtwilson.com/?s=snow}
+"snow_deaths"
 
-
+#' Location and number of water pumps in 1854 Soho, London.
+#'
+#' @format A tibble with 8 rows and 2 columns:
+#' \describe{
+#' \item{   lng}{longitude of pump}
+#' \item{   lat}{longitude of pump}
+#' }
+#' @source \url{http://blog.rtwilson.com/?s=snow}
+"snow_pumps"
 
